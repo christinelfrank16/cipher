@@ -4,8 +4,24 @@ img {
   display: inline-block;
   width: 30%;
   height: auto;
+
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
 }
 
 body {
   background-color: #c6ecc6;
+  font-family: monospace;
+}
+
+.images {
+  display: block;
+  width: 100%;
+  text-align: center;
 }

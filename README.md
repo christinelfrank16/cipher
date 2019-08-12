@@ -8,7 +8,6 @@
 
 _This webpage prompts the user to input a sentence. It displays a picture of a closed lock: clicking on this picture displays a ciphered version of the user's sentence. Then there is a picture of an open lock: clicking on this picture displays the user's original sentence._
 
-
 ## Technologies Used
 
 _JavaScript_
