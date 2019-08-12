@@ -33,8 +33,10 @@ jQuery(document).ready(function() {
 
   $("#locked").click(function() {
     document.getElementById("sentence").innerHTML = combineFunctions(sentenceInput);
+  });
 
-    // return combineFunctions(sentenceInput);
+  $("#unlocked").click(function () {
+    document.getElementById("sentence").innerHTML = sentenceInput;
   });
 
 });
